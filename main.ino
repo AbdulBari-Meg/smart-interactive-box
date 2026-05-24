@@ -1,7 +1,7 @@
 // Smart Interactive Box - High School Graduation Project
 // Developed by: AbdulBari Hakmi
 
-#include <SoftwareSerial.class> // مكتبة التحكم بالصوت والاتصال
+#include <SoftwareSerial.h> // مكتبة التحكم بالصوت والاتصال
 
 const int sensorPin = 2;        // الحساس الرقمي متصل بالمنفذ رقم 2
 const int ledPin = 13;         // الإضاءة التفاعلية متصلة بالمنفذ رقم 13
